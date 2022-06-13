@@ -4,5 +4,5 @@ int main()
 {
     int a=5,b=6;
     int sum=a+b;
-    cout<<sum;
+    cout<<"Sum = "<<sum;
 }
