@@ -4,5 +4,5 @@ int main()
 {
     int a=5,b=6;
     int prod=a*b;
-    cout<<"Prod = "<<prod;
+    cout<<"Multiplication Result = "<<prod;
 }
